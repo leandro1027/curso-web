@@ -71,3 +71,26 @@ body{
     margin-bottom: 10px;
 }
 
+.container-quem-somos .servico-texto{
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #81c4ff;
+}
+
+.container-quem-somos .servico-texto-realce{
+    color: white;
+    font-weight: bolder;
+}
+
+/***************************************************************/
+
+footer{
+    text-align: center;
+    padding: 80px;
+    background-color: #02111f;
+    color: grey;
+}
+
+
+
