@@ -85,12 +85,44 @@ body{
 
 /***************************************************************/
 
+.container-servicos-contatos{
+    background-color: #082946;
+    padding: 80px;
+    text-align: center;
+}
+
+.container-servicos-contatos .botoes-servicos-contatos{
+    padding: 60px;
+    text-align: center;
+}
+
+.botoes-servicos-contatos a{
+    display: block;
+    max-width: 200px;
+    text-decoration: none;
+    font-size: 1.2em;
+    background-color: #008eb9;
+    color: white;
+    padding: 20px 60px;
+    margin: 10px auto;
+    border-radius: 10px;
+
+}
+.botoes-servicos-contatos a:hover{
+    background-color: white;
+    color: black;
+}
+
+/***************************************************************/
+
 footer{
     text-align: center;
     padding: 80px;
     background-color: #02111f;
     color: grey;
 }
+
+
 
 
 
