@@ -112,7 +112,9 @@ body{
     float: center;
 }
 .container-servicos li{
-    mar
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color: white;
 }
 /***************************************************************/
 footer{
