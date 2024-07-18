@@ -100,7 +100,19 @@ body{
 .container-servicos h1 {
     font-size: 3em;
     color: white;
-    margin-bottom: 20px;
+    margin-bottom: 20px ;
+}
+.container-servicos h3 {
+    color: #2097ff;
+    padding: 20px 0;
+}
+.container-servicos article {
+    width: 40%;
+    margin: auto;
+    float: center;
+}
+.container-servicos li{
+    mar
 }
 /***************************************************************/
 footer{
