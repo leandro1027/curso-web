@@ -117,12 +117,18 @@ body{
     color: white;
 }
 /***************************************************************/
-
 .container-contatos{
     background-color: #05192a;
     padding: 80px;
 }
-
+.container-contatos h1{
+    font-size: 3em;
+    color: white;
+    margin-bottom: 20px;
+}
+.container-contatos h3{
+    
+}
 /***************************************************************/
 footer{
     text-align: center;
