@@ -1,3 +1,6 @@
+*{
+    font-family: "Anton", sans-serif;
+}
 table, th, td{
     border: 1px solid black;
     border-collapse: collapse;
@@ -7,3 +10,8 @@ table, th, td{
 th, td{
     padding: 5px;
 }
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-style: normal;
+  }
+  
